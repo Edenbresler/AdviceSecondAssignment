@@ -30,6 +30,7 @@ import { API_BASE } from "./api";
 import * as signalR from "@microsoft/signalr";
 import type { PaletteMode } from "@mui/material";
 import makeTheme from "./theme";
+import bgImg from "./assets/bg.jpg"; 
 
 export default function App() {
   // Theme mode (light/dark)
@@ -100,6 +101,21 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
+<Box
+      sx={{
+        minHeight: "100vh",
+        position:"relative",
+        backgroundImage: `url(${bgImg})`,  
+        backgroundPosition: "center",
+        backgroundAttachment: "fixed",
+        "&::before": {
+      content: '""',
+      position: "absolute",
+      inset: 0,
+      backgroundColor: "rgba(255, 255, 255, 0.6)", // לבן שקוף - אפשר גם לשים "rgba(0,0,0,0.4)" בשביל כהה
+      zIndex: 0,},
+  }}
+>
 <AppBar
   position="sticky"
   elevation={0}
@@ -217,6 +233,7 @@ export default function App() {
         message={dialogMsg}
         onClose={() => setDialogMsg(null)}
       />
+      </Box>
     </ThemeProvider>
   );
 }
