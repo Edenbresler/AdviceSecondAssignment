@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:services\\analyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\services\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:services\\ianalyticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\repositories\\analyticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:repositories\\analyticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\repositories\\ianalyticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:repositories\\ianalyticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\models\\orderdeliverydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:models\\orderdeliverydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:services\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:repositories\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|c:\\users\\edenb\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\advice second assignment\\advicehomework\\repositories\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FB86AF-EEEF-40C0-B477-573DB9A7F84D}|AdviceHomework.csproj|solutionrelative:repositories\\iordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalyticsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\AnalyticsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AnalyticsRepository.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\AnalyticsRepository.cs",
+              "RelativeToolTip": "Repositories\\AnalyticsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:18:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\IAnalyticsService.cs",
+              "RelativeDocumentMoniker": "Services\\IAnalyticsService.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\IAnalyticsService.cs",
+              "RelativeToolTip": "Services\\IAnalyticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:19:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnalyticsService.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\AnalyticsService.cs",
+              "RelativeDocumentMoniker": "Services\\AnalyticsService.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\AnalyticsService.cs",
+              "RelativeToolTip": "Services\\AnalyticsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:19:18.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnalyticsController.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Controllers\\AnalyticsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnalyticsController.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Controllers\\AnalyticsController.cs",
+              "RelativeToolTip": "Controllers\\AnalyticsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:15:59.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAnalyticsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\IAnalyticsRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAnalyticsRepository.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\IAnalyticsRepository.cs",
+              "RelativeToolTip": "Repositories\\IAnalyticsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:14:44.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDeliveryDto.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Models\\OrderDeliveryDto.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDeliveryDto.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Models\\OrderDeliveryDto.cs",
+              "RelativeToolTip": "Models\\OrderDeliveryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T07:52:10.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:23:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-11T08:28:55.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\OrdersService.cs",
+              "RelativeToolTip": "Services\\OrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:21:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrdersService.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Services\\IOrdersService.cs",
+              "RelativeToolTip": "Services\\IOrdersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:22:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:16:24.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IOrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\IOrdersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IOrdersRepository.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\IOrdersRepository.cs",
+              "RelativeToolTip": "Repositories\\IOrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:18:53.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\edenb\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\Advice Second Assignment\\AdviceHomework\\Repositories\\OrdersRepository.cs",
+              "RelativeToolTip": "Repositories\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T08:15:32.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
