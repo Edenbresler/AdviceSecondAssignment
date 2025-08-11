@@ -1,6 +1,9 @@
-﻿using AdviceHomework.Models;
+﻿
+using AdviceHomework.Models;
+
 namespace AdviceHomework.Services;
+
 public interface IAnalyticsService
 {
-    Task<IEnumerable<TopProductByCityDto>> GetTopProductsBestCityAsync();
+    Task<IEnumerable<TopProductByCityDto>> GetTop3ProductsBestCityAsync();
 }

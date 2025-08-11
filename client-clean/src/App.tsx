@@ -70,10 +70,9 @@ export default function App() {
         </Toolbar>
       </AppBar>
 
-      <Container maxWidth="lg" sx={{ py: 4 }}>
-        {/* Responsive two-column layout with CSS Grid */}
-        <Box sx={{ display: "grid", gridTemplateColumns: { xs: "1fr", md: "1fr 1fr" }, gap: 3 }}>
-          <TopProductsGrid />
+<Container maxWidth="lg" sx={{ py: 4 }}>
+  <Box sx={{ display: "grid", gridTemplateColumns: "1fr", gap: 3 }}>
+    <TopProductsGrid />
           <OrdersGrid />
         </Box>
 

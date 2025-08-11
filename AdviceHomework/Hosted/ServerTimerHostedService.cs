@@ -20,7 +20,7 @@ public class ServerTimerHostedService : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken stoppingToken)
     {
-        // Reads interval from appsettings.json: ServerTimer:IntervalMs
+        
         var interval = _cfg.GetValue<int>("ServerTimer:IntervalMs", 10000);
 
         while (!stoppingToken.IsCancellationRequested)

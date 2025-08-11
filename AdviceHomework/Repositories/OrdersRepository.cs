@@ -12,7 +12,7 @@ public class OrdersRepository : IOrdersRepository
 
     public async Task<IEnumerable<OrderDeliveryDto>> GetOrdersAsync(string kind, int limit)
     {
-        // Calls stored procedure dbo.usp_GetOrdersDeliveryStatus
+        
         var result = await _db.QueryAsync<OrderDeliveryDto>(
             "dbo.usp_GetOrdersDeliveryStatus",
             new { kind, limit },

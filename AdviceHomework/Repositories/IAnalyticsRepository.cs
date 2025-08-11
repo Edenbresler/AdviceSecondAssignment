@@ -4,6 +4,7 @@ namespace AdviceHomework.Repositories;
 
 public interface IAnalyticsRepository
 {
-    Task<IEnumerable<TopProductByCityDto>> GetTopProductsBestCityAsync();
+    Task<IEnumerable<TopProductByCityDto>> GetTop3ProductsBestCityAsync();
+
 }
 

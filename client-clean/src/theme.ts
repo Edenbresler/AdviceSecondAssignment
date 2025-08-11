@@ -3,8 +3,8 @@ import { createTheme } from "@mui/material/styles";
 const theme = createTheme({
   palette: {
     mode: "light",
-    primary: { main: "#0f766e" },   // teal
-    secondary: { main: "#1d4ed8" }, // blue
+    primary: { main: "#0f766e" },   
+    secondary: { main: "#1d4ed8" }, 
   },
   shape: { borderRadius: 16 },
   components: {
