@@ -135,6 +135,11 @@ export default function OrdersGrid() {
     <Card>
       <CardHeader
         title="Early/Late Orders"
+         sx={{ 
+        color: "#4fb78aff", 
+        fontWeight: "bold", 
+        
+      }}
         action={
           <Stack direction="row" spacing={2} alignItems="center">
             <Stack direction="row" spacing={1} alignItems="center">

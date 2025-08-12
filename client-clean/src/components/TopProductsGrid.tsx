@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { DataGrid, type GridColDef } from "@mui/x-data-grid";
-import { Card, CardContent, CardHeader } from "@mui/material";
+import {Typography, Card, CardContent, CardHeader } from "@mui/material";
 import { api } from "../api";
 import type { TopProduct } from "../types";
 
@@ -39,10 +39,20 @@ export default function TopProductsGrid() {
 
   return (
     <Card>
-      <CardHeader
-        title="Top 3 Products (best-selling city per product)"
-        
-      />
+<CardHeader
+  title={
+    <Typography 
+      variant="h6" 
+      sx={{ 
+        color: "#4fb78aff", 
+        fontWeight: "bold", 
+        textAlign: "center" 
+      }}
+    >
+      Top 3 Products (best-selling city per product)
+    </Typography>
+  }
+/>
       <CardContent>
         <div style={{ height: 360, width: "100%" }}>
           <DataGrid<Row>

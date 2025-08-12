@@ -1,4 +1,4 @@
--- זההההההההההההההההה
+
 CREATE OR ALTER PROCEDURE dbo.usp_Top3ProductsBestCity
 AS
 BEGIN
@@ -16,8 +16,7 @@ BEGIN
         GROUP BY p.product_name, c.city
     ),
     Ranked AS (
-        -- לעיר המובילה לכל מוצר
-        SELECT *,
+                SELECT *,
                ROW_NUMBER() OVER(PARTITION BY productName ORDER BY salesCount DESC, city ASC) AS rn
         FROM SalesByProdCity
     ),
