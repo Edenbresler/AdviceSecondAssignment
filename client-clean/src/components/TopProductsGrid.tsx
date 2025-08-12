@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { DataGrid, type GridColDef } from "@mui/x-data-grid";
-import { Button, Card, CardContent, CardHeader } from "@mui/material";
+import { Card, CardContent, CardHeader } from "@mui/material";
 import { api } from "../api";
 import type { TopProduct } from "../types";
 
@@ -12,6 +12,7 @@ const cols: GridColDef<Row>[] = [
   { field: "salesCount", headerName: "Sales Count", type: "number", width: 140 },
 ];
 
+// In case I don't have a database
 const MOCK: TopProduct[] = [
   { productName: "Chai", city: "London", salesCount: 120 },
   { productName: "Chang", city: "London", salesCount: 95 },
@@ -40,7 +41,7 @@ export default function TopProductsGrid() {
     <Card>
       <CardHeader
         title="Top 3 Products (best-selling city per product)"
-        action={<Button onClick={load} variant="outlined" size="small">Refresh</Button>}
+        
       />
       <CardContent>
         <div style={{ height: 360, width: "100%" }}>

@@ -221,11 +221,7 @@ export default function App() {
     </Grow>
   </Stack>
 
-  <Box sx={{ mt: 2, color: "text.secondary", fontSize: 12 }}>
-    * Built according to the assignment requirements: UI in a single
-    responsive page, top-3 products by city, early/late orders with
-    5/10/20, timer + persistence, and SignalR dialog from server.
-  </Box>
+
 </Container>
 
       <ServerDialog
