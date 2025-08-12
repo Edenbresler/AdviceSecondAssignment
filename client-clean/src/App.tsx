@@ -4,7 +4,7 @@ import Grow from "@mui/material/Grow";
 import Paper from "@mui/material/Paper";
 import { alpha } from "@mui/material/styles";
 
-// אנימציית pulse לצ'יפ של הטיימר
+
 const pulse = keyframes`
   0%   { transform: scale(1);   box-shadow: 0 0 0 0 rgba(99,102,241,.4); }
   70%  { transform: scale(1.03);box-shadow: 0 0 0 10px rgba(99,102,241,0); }
@@ -112,7 +112,7 @@ export default function App() {
       content: '""',
       position: "absolute",
       inset: 0,
-      backgroundColor: "rgba(255, 255, 255, 0.6)", // לבן שקוף - אפשר גם לשים "rgba(0,0,0,0.4)" בשביל כהה
+      backgroundColor: "rgba(255, 255, 255, 0.6)", 
       zIndex: 0,},
   }}
 >
@@ -130,10 +130,10 @@ export default function App() {
     display: "flex",
     justifyContent: "space-between",
     gap: 2,
-    color: "text.primary",            // ← הוסף שורה זו
+    color: "text.primary",   
   }}
 >
-    {/* כותרת עם גרדיאנט עדין */}
+   
 <Typography
   variant="h5"
   sx={(theme) => ({
@@ -151,7 +151,7 @@ export default function App() {
 </Typography>
 
     <Stack direction="row" spacing={3} alignItems="center">
-      {/* ה־pulse כאן משתמש ב־keyframes שהגדרת */}
+      
       <Chip
         label={hhmmss}
         color="secondary"
@@ -178,7 +178,7 @@ export default function App() {
 </AppBar>
 
 <Container maxWidth="lg" sx={{ py: 4 }}>
-  {/* שתי “קופסאות זכוכית” עם אנימציית כניסה */}
+ 
   <Stack spacing={3}>
     <Grow in timeout={600}>
       <Paper

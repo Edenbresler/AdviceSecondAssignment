@@ -26,7 +26,7 @@ public class ServerTimerHostedService : BackgroundService
         while (!stoppingToken.IsCancellationRequested)
         {
             var now = DateTime.Now.ToString("HH:mm:ss");
-            var msg = $"Choose Eden Bresler! Current time: {now}";
+            var msg = $"Choose Eden Bresler for this position ☺️\nCurrent time: {now}";
             await _notifications.BroadcastAsync(msg);
             await Task.Delay(interval, stoppingToken);
         }
